@@ -1,5 +1,5 @@
 package l1;//first change
-import java.util.*;
+import java.util.*;//second change
 public class lab1 {
 	public static int N=200;
 	public static String str,strin;										//ÊäÈë
