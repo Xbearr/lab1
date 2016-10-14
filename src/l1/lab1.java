@@ -1,7 +1,7 @@
 package l1;//first change
 import java.util.*;//second change
 public class lab1 {//third change
-	public static int N=200;
+public static int N=200;//fourth change
 	public static String str,strin;										//输入
 	public static Vector<Vector<STR>> S=new Vector<Vector<STR>>();		//结果序列
 	public static String strtemp;										//完成赋值之后的序列
