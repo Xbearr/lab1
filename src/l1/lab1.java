@@ -1,4 +1,4 @@
-package l1;
+package l1;//first change
 import java.util.*;
 public class lab1 {
 	public static int N=200;
