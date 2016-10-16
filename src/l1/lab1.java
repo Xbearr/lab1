@@ -2,6 +2,7 @@ package l1;
 //场景二的第一次修改
 import java.util.*;
 public class lab1 {
+	//场景二的第三次修改
 	public static int N=200;
 	public static String str,strin;										//输入
 	public static Vector<Vector<STR>> S=new Vector<Vector<STR>>();		//结果序列
