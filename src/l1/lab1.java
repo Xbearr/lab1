@@ -1,4 +1,5 @@
 package l1;
+//场景二的第一次修改
 import java.util.*;
 public class lab1 {
 	public static int N=200;
