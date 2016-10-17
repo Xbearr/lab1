@@ -1,5 +1,7 @@
 package lab_1;
 
+//this is a comment added from the partner
+
 import java.util.Scanner;
 
 public class Calculator {
